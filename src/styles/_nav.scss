@@ -1,0 +1,15 @@
+nav {
+  background-color: rgb(51, 131, 197);
+  ul {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 3rem;
+    li {
+      padding: 0.5rem 1rem;
+      a {
+        font-size: 1.5rem;
+        color: white;
+      }
+    }
+  }
+}

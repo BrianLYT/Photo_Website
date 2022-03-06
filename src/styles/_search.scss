@@ -1,0 +1,21 @@
+.search {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 3rem 0rem;
+
+  input,
+  button {
+    border-radius: 15px;
+    font-size: 2rem;
+    padding: 0.25rem;
+    border: 3px solid rgb(28, 88, 167);
+  }
+  button {
+    margin: 5px;
+    border-radius: 15px;
+    background-color: rgb(28, 88, 167);
+    color: white;
+    cursor: pointer;
+  }
+}
